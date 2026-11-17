@@ -1,0 +1,8 @@
+{
+  "name": "EscalinCarbon",
+  "symbol": "ESC",
+  "description": "EscalinCarbon (ESC) — carbon credit token, 1 ESC = 1 metric ton CO2, backed by verified Haitian environmental projects. Devnet test token; no monetary value.",
+  "image": "https://raw.githubusercontent.com/Boku-no-Zoe/escalin-assets/main/esc.png",
+  "external_url": "",
+  "properties": { "files": [{ "uri": "https://raw.githubusercontent.com/Boku-no-Zoe/escalin-assets/main/esc.png", "type": "image/png" }], "category": "image" }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "EscalinPay",
+  "symbol": "ESP",
+  "description": "EscalinPay (ESP) — Haitian Gourde-pegged stablecoin for remittances and everyday payments. Devnet test token; no monetary value.",
+  "image": "https://raw.githubusercontent.com/Boku-no-Zoe/escalin-assets/main/esp.png",
+  "external_url": "",
+  "properties": { "files": [{ "uri": "https://raw.githubusercontent.com/Boku-no-Zoe/escalin-assets/main/esp.png", "type": "image/png" }], "category": "image" }
+}
